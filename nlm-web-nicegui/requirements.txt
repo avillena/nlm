@@ -1,0 +1,4 @@
+nicegui==1.4.21
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0

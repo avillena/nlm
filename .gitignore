@@ -21,3 +21,13 @@ Login Data
 Web Data
 *.db
 *.db-*
+
+# Python web apps
+__pycache__/
+*.py[cod]
+venv/
+*.egg-info/
+.pytest_cache/
+htmlcov/
+.coverage
+nohup.out
